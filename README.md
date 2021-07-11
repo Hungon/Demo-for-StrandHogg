@@ -14,6 +14,7 @@ Demonstrate the possible attacks in simple apps.
 - Access phone logs
 
 ## Reference
+- [Deep dive into Task highjacking Android app](https://blog.dixitaditya.com/android-task-hijacking/)
 - [Malicious Android app had more than 100 million downloads in Google Play](https://www.kaspersky.com/blog/camscanner-malicious-android-app/28156/)
 - [Guide for Pokémon Go Trojan catches Pokémon trainers](https://www.kaspersky.com/blog/pokemon-go-malware/12953/)
 - [Trojan droppers](https://encyclopedia.kaspersky.com/glossary/trojan-droppers/)
