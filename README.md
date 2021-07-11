@@ -18,3 +18,4 @@ Demonstrate the possible attacks in simple apps.
 - [Malicious Android app had more than 100 million downloads in Google Play](https://www.kaspersky.com/blog/camscanner-malicious-android-app/28156/)
 - [Guide for Pokémon Go Trojan catches Pokémon trainers](https://www.kaspersky.com/blog/pokemon-go-malware/12953/)
 - [Trojan droppers](https://encyclopedia.kaspersky.com/glossary/trojan-droppers/)
+- [Understand back stack and tasks](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
